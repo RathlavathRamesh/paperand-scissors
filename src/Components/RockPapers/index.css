@@ -1,0 +1,93 @@
+.bgContainer {
+  background-color: #223a5f;
+  padding: 10px;
+  font-family: Bree Serif;
+}
+.horizontal {
+  display: flex;
+}
+.first {
+  margin-right: 4vh;
+}
+.second {
+  margin-left: 4vh;
+}
+.results {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30vw;
+  margin-right: 30vw;
+  flex-wrap: wrap;
+}
+.headings {
+  color: #ffffff;
+  font-size: 20px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 25px;
+}
+.closeright {
+  text-align: right;
+}
+.close-icon {
+  width: 8vw;
+  height: 5vh;
+}
+.rulesview {
+  height: 60vh;
+}
+.gameCard {
+  border: solid 2px #ffffff;
+  margin: 15vh;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+.closebtn {
+  background-color: #223a5f;
+  border-width: 0px;
+  color: #ffffff;
+}
+.trigger-button {
+  height: 4vh;
+  border-width: 0px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  width: 6vw;
+}
+.triggerbtn {
+  text-align: right;
+}
+.candate {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 2vh;
+  font-family: Roboto;
+}
+.score {
+  font-size: 15px;
+  font-family: Roboto;
+}
+.score1 {
+  font-family: Roboto;
+}
+.button {
+  height: 12vh;
+  width: 6vw;
+  border-width: 0px;
+  background-color: #ffffff;
+  margin-top: 4vh;
+  margin-right: 2vh;
+  font-weight: 500;
+  font-size: 23px;
+  border-radius: 5px;
+}
